@@ -1,16 +1,11 @@
-# fate
+Fate 🤔
 
-A new Flutter project.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Getting Started
+**An adventure game with the help of using flutter. Game that changes the storyline using the choices that are made by the end user.**
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://github.com/root-sys/Fate/assets/54510055/a9b26ea3-2bee-4026-a6e7-c6f6d692f514
+
